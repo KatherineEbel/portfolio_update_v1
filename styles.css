@@ -77,15 +77,15 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: none; /*#efefef*/
-  color: white;
+  background-color: #efefef;
+  color: black;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color: none; /*#222*/
+  background-color: #222;
   color: ghostwhite;
 }
 .card {
@@ -207,8 +207,9 @@ a.social:hover {
 
 /*Added styles*/
 .screen-shot {
-  margin-top: 20px;
-  width: 200px;
-  height: 150px;
+  background-color: #d3a479;;
+  margin: 20px;
+  padding: 10px;
+  width: 80%;
 }
 
